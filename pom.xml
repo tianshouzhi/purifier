@@ -26,6 +26,7 @@
 
     <modules>
         <module>purifier-web</module>
+        <module>purifier-core</module>
     </modules>
 
     <dependencyManagement>
